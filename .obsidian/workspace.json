@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "5109f071265bcdd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc5cecd4ae1fc87e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13f3754d0df0e87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "667e920ba10424c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db57165bb2bc501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290af9f1b8fe7716",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f818b6afc1f9aa3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac98a430a39bd75a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "15375fe416b72917",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf8978ad6040ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65953dea00d31e34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64421618edaccb9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55dfdec50dbb18fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0a56dbe11684d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "255867dcb35b596e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "23e1111460b4b317",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e13f3754d0df0e87",
+  "lastOpenFiles": [
+    "軟體架構圖(orleans).md",
+    "2024-09-28.md",
+    "Excalidraw/Drawing 2024-09-28 14.20.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-28 14.20.18_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-28 14.20.18.excalidraw.md",
+    "Excalidraw",
+    "未命名.md",
+    "Welcome.md"
+  ]
+}
