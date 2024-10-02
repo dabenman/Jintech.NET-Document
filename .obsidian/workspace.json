@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc5cecd4ae1fc87e",
+        "id": "b23af47982f47644",
         "type": "tabs",
         "children": [
           {
-            "id": "e13f3754d0df0e87",
+            "id": "0d3dbb6b9745cd88",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -156,14 +167,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e13f3754d0df0e87",
+  "active": "290af9f1b8fe7716",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-10-03 01.21.14.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-10-03 01.16.12.excalidraw.md",
     "軟體架構圖(orleans).md",
     "2024-09-28.md",
     "Excalidraw/Drawing 2024-09-28 14.20.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-28 14.20.18_0.excalidraw.md",
     "Excalidraw/Drawing 2024-09-28 14.20.18.excalidraw.md",
-    "Excalidraw",
     "未命名.md",
     "Welcome.md"
   ]
