@@ -107,7 +107,7 @@ aspirate init -cr localhost:6000 -ct latest --disable-secrets true --non-interac
 
 4. Build and publish the app to the local container registry.
 ```pwsh
-aspirate generate --image-pull-policy Always --include-dashboard true --disable-secrets true --non-interactive
+aspirate generate --image-pull-policy Always --namespace jintech --include-dashboard true --disable-secrets true --non-interactive
 ```
 
 5. Deploy the app to the Kubernetes cluster.
