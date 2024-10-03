@@ -143,6 +143,10 @@ http://localhost/weather
 kubectl get services --all-namespaces 
 ```
 
+12. Delete all resource from namespace
+```pwsh
+kubectl delete all --all -n jintech
+```
 ### Balancer
 
 - load-balancer.yaml
