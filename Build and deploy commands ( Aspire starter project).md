@@ -51,7 +51,8 @@ kubectl -n kubernetes-dashboard port-forward svc/kubernetes-dashboard-kong-proxy
 
 5. Access the dashboard using the following URL:
 ```text
- ```
+https://localhost:8443
+```
 
 1. Enter the access token to access the dashboard.
 ## Aspire-flavoured App Build
@@ -63,7 +64,7 @@ dotnet workload update && dotnet workload install aspire
 
 2. Create a new Aspire starter app.
 ```pwsh
-dotnet new aspire-starter -n Aspir8
+dotnet new aspire-starter -n Jintech.NET
 ```
 
 3. Build the app.
@@ -73,7 +74,7 @@ dotnet restore && dotnet build
 
 4. Run the app locally.
 ```pwsh
-dotnet run --project Aspir8.AppHost
+dotnet run --project Jintech.NET.AppHost
 ```
 
 5. Open the app in a browser, and go to the weather page to see whether the API is working or not. The port number might be different from the example below.
