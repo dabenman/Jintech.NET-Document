@@ -1,7 +1,6 @@
 
 Ref: [Let's start from scratch](https://github.com/devkimchi/aspir8-from-scratch)
-](#use-nhn-kubernetes-services-nks)
-
+Ref: [Aspir8 | Aspir8: Aspire to Deployments ](https://prom3theu5.github.io/aspirational-manifests/getting-started.html)
 ## Prerequisites
 
 - for Aspire
@@ -52,8 +51,7 @@ kubectl -n kubernetes-dashboard port-forward svc/kubernetes-dashboard-kong-proxy
 
 5. Access the dashboard using the following URL:
 ```text
-https://localhost:8443
-```
+ ```
 
 1. Enter the access token to access the dashboard.
 ## Aspire-flavoured App Build
@@ -117,7 +115,7 @@ aspirate apply -k docker-desktop --non-interactive
 
 6. Check the services in the Kubernetes cluster.
 ```pwsh
-kubectl get services
+kubectl get services --all-namespaces 
 ```
 
 7. Install a load balancer for `webfrontend` to the local Kubernetes cluster.
@@ -135,9 +133,14 @@ kubectl apply -f ../aspire-dashboard.yaml
 http://localhost:18888
 ```
 
-1. Open the app in a browser, and go to the weather page to see whether the API is working or not.
+10. Open the app in a browser, and go to the weather page to see whether the API is working or not.
 ```text
 http://localhost/weather
+```
+
+11. Check the services in the Kubernetes cluster.
+```pwsh
+kubectl get services --all-namespaces 
 ```
 
 ### Balancer
@@ -148,6 +151,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: webfrontend-lb
+  namespace: jintech
 spec:
   ports:
   - port: 80
@@ -163,6 +167,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: aspire-dashboard-lb
+  namespace: jintech
 spec:
   ports:
   - name: http
