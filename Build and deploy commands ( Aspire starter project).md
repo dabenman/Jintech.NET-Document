@@ -100,7 +100,7 @@ dotnet tool install -g aspirate
 
 3. Initialize Aspir8.
 ```pwsh
-cd Aspir8.AppHost
+cd Jintech.NET.AppHost
 aspirate init -cr localhost:6000 -ct latest --disable-secrets true --non-interactive
 ```
 
