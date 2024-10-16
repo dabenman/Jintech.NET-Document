@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +168,8 @@
   "active": "7f5d70c79f0c3c1c",
   "lastOpenFiles": [
     "Excalidraw/軟體架構圖.md",
-    "Build and deploy commands ( Aspire starter project).md",
     "Excalidraw/建置工具.md",
+    "Build and deploy commands ( Aspire starter project).md",
     "Untitled Kanban.md",
     "Untitled.canvas",
     "Excalidraw",
