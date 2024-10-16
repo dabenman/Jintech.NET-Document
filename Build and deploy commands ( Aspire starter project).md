@@ -114,7 +114,7 @@ aspirate generate --image-pull-policy Always --namespace jintech --include-dashb
 
 5. Deploy the app to the Kubernetes cluster.
 ```pwsh
-aspirate apply -k docker-desktop --non-interactive
+aspirate apply -k docker-desktop --non-interactive --rolling-restart true  
 ```
 
 6. Check the services in the Kubernetes cluster.
