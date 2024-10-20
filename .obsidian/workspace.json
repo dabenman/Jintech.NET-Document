@@ -4,19 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d13fe0b1461a40df",
+        "id": "b3919afc3e78f40f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5d70c79f0c3c1c",
+            "id": "824ed33c2cd773ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Build and deploy commands ( Aspire starter project).md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Project management/Jintech.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Jintech"
             }
           }
         ],
@@ -40,7 +49,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +66,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build and deploy commands ( Aspire starter project).md",
+                "file": "Project management/Jintech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +109,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Jintech"
             }
           },
           {
@@ -103,10 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Build and deploy commands ( Aspire starter project).md",
+                "file": "Project management/Jintech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Jintech"
             }
           },
           {
@@ -117,7 +136,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Build and deploy commands ( Aspire starter project).md"
-              }
+                "file": "Project management/Jintech.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Jintech"
             }
           },
           {
@@ -135,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -143,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -163,15 +190,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7f5d70c79f0c3c1c",
+  "active": "824ed33c2cd773ae",
   "lastOpenFiles": [
+    "Project management/Task.md",
+    "Project management/Jintech.md",
+    "Build and deploy commands ( Aspire starter project).md",
+    "Untitled Kanban 1.md",
+    "Project management/jintech.md",
+    "Project management/特定區間內的股票查詢.md",
+    "Project management",
     "Excalidraw/軟體架構圖.md",
     "Excalidraw/建置工具.md",
-    "Build and deploy commands ( Aspire starter project).md",
-    "Untitled Kanban.md",
     "Untitled.canvas",
     "Excalidraw",
     "Excalidraw/Drawing 2024-10-03 01.21.14.excalidraw.md",
