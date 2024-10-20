@@ -11,21 +11,14 @@
             "id": "824ed33c2cd773ae",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project management/Jintech.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Project management/Card notes/決定UI架構.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Jintech"
+              "icon": "lucide-file",
+              "title": "決定UI架構"
             }
           }
         ],
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project management/Jintech.md",
+                "file": "Project management/Card notes/決定UI架構.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jintech"
+              "title": "Backlinks for 決定UI架構"
             }
           },
           {
@@ -120,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project management/Jintech.md",
+                "file": "Project management/Card notes/決定UI架構.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jintech"
+              "title": "Outgoing links from 決定UI架構"
             }
           },
           {
@@ -147,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project management/Jintech.md"
+                "file": "Project management/Card notes/決定UI架構.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jintech"
+              "title": "Outline of 決定UI架構"
             }
           },
           {
@@ -196,8 +189,10 @@
   },
   "active": "824ed33c2cd773ae",
   "lastOpenFiles": [
-    "Project management/Task.md",
     "Project management/Jintech.md",
+    "Project management/Card notes",
+    "Project management/Card notes/決定UI架構.md",
+    "Project management/Task.md",
     "Build and deploy commands ( Aspire starter project).md",
     "Untitled Kanban 1.md",
     "Project management/jintech.md",

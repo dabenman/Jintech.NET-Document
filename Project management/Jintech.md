@@ -14,7 +14,7 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] 決定UI架構
+- [ ] [[決定UI架構]]
 
 
 ## InProgess
