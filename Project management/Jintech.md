@@ -32,6 +32,7 @@ kanban-plugin: board
 	- UI 框架使用 WPF
 	- MVVM 框架使用  [CommunityToolkit/MVVM-Samples: Sample repo for MVVM package](https://github.com/CommunityToolkit/MVVM-Samples)
 	- [Building a Modern, Native Application for Windows: Which UI Framework Should You Choose?](https://www.youtube.com/watch?v=9c23LhMMwuM)
+	- [MaterialDesignInXAML/MaterialDesignInXamlToolkit: Google's Material Design in XAML & WPF, for C# & VB.Net.](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 
 
 
