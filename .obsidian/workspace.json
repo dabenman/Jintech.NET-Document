@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/軟體架構圖.md"
+                "file": "Excalidraw/建置工具.md"
               },
               "icon": "excalidraw-icon",
-              "title": "軟體架構圖"
+              "title": "建置工具"
             }
           }
         ],
@@ -187,11 +187,11 @@
   },
   "active": "20721a8240fb0fb1",
   "lastOpenFiles": [
+    "Excalidraw/軟體架構圖.md",
+    "Project management/Jintech.md",
     "Excalidraw/建置工具.md",
     "Excalidraw/交易流程.md",
-    "Project management/Jintech.md",
     "Overview.md",
-    "Excalidraw/軟體架構圖.md",
     "Build and deploy commands ( Aspire starter project).md",
     "程式開發/交易員.md",
     "理論/基礎知識/回測.md",
