@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "交易流程"
             }
+          },
+          {
+            "id": "3b44e027fbdb76ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
         "stacked": true
