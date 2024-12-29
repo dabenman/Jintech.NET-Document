@@ -72,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,8 +187,9 @@
   },
   "active": "bfc77f89ae7aacc1",
   "lastOpenFiles": [
-    "Overview.md",
+    "Mirra.md",
     "Excalidraw/系統架構.md",
+    "Overview.md",
     "Excalidraw/軟體架構圖.md",
     "Excalidraw/建置工具.md",
     "Project management/Jintech.md",
